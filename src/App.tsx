@@ -28,7 +28,7 @@ const BUSINESS_INFO = {
   name: "Jason Auto Repair",
   address: "634 W Girard Ave, Salt Lake City, UT 84116",
   phone: "(801) 839-6579",
-  hours: "Open daily, 8:00 AM - 6:00 PM",
+  hours: "Mon-Sat: 8:00 AM - 6:00 PM, Sunday: Closed",
   rating: 4.5,
   reviewCount: 124,
   owner: "Miguel"
